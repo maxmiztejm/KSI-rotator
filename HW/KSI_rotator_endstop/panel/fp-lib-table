@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name KSI_rotator_endstop)(type KiCad)(uri C:/Users/Samuel/Documents/satnogs_new/KSIrotator/KSI_rotator_endstop/libs/KSI_rotator_endstop.pretty)(options "")(descr ""))
+)

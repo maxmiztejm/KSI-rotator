@@ -1,0 +1,11 @@
+1 SET
+Bearing_holder_A -3pcs
+Bearing_holder_B -3pcs
+Bearing_holder_C -4pcs
+gear_holder_B    -4pcs
+gear_holder_V2   -4pcs
+gear_worm        -1pcs
+ring             -4pcs
+sensor_holder    -2pcs
+shaft_gear_wheel -1pcs
+shutter          -2pcs

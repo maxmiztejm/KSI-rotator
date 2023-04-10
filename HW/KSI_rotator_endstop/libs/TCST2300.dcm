@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCST2103
+D TCST2103
+F http://www.vishay.com/docs/81147/tcst2103.pdf
+$ENDCMP
+# end doc library
